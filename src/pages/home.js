@@ -28,6 +28,10 @@ function Home() {
             <span className='number'> 6.1 million </span> children were impacted 
             by food insecurity. <br/>
         </div>
+
+        <div className='fullImage'>
+            <img src={bg} alt="light blue squiggle"></img>
+        </div>
     </div>
   );
 }

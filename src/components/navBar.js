@@ -7,10 +7,10 @@ function NavBar() {
     <div className='navbar'>
         <nav>
             <ul>
-                <li class="logo"><img src={Logo} alt="logo"/><div className="name"> Sustain </div></li>
+                <li className="logo"><img src={Logo} alt="logo"/><div className="name"> Sustain </div></li>
                 <li><Link to="/home" className='linkItem'>Home</Link></li>
-                <li><Link to="/home" className='linkItem'>Food near you</Link></li>
-                <li><Link to="/home" className='linkItem'>Food suppliers</Link></li>
+                <li><Link to="/nearyou" className='linkItem'>Food near you</Link></li>
+                <li><Link to="/suppliers" className='linkItem'>Food suppliers</Link></li>
                 <li><Link to="/home" className='linkItem'>FAQ</Link></li>
             </ul>
         </nav>
