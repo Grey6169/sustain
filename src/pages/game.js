@@ -18,15 +18,17 @@ function Game() {
 
         const newDiv = document.createElement("div");
 
-        if (rand <= 10.5) {
+        if (rand <= 90.5) {
             newDiv.innerHTML = ("Unfortunately you have been born into a food insecure family. <br/>");
 
             const button1 = document.createElement("button");
             button1.innerHTML = ("Eat healthy, but expensive");
+            button1.setAttribute('onClick', function(){ healthy(); });
             newDiv.appendChild(button1);
 
             const button2 = document.createElement("button");
             button2.innerHTML = ("Eat unhealthy, but cheap");
+            button2.setAttribute('onClick', function(){ unhealthy(); });
             newDiv.appendChild(button2);
         }
         else {
@@ -36,6 +38,27 @@ function Game() {
             button1.innerHTML = ("Button");
             newDiv.appendChild(button1);
         }
+
+        bodyEl.appendChild(newDiv);
+    }
+
+    function healthy() {
+        const bodyEl = document.getElementById("Game");
+        const secondDiv = document.createElement("div");
+
+        secondDiv.innerHTML = ("Great choice to eat healthy!");
+
+        bodyEl.appendChild(secondDiv);
+
+        console.log("HEALTHY");
+
+    }
+
+    function unhealthy() {
+        const bodyEl = document.getElementById("Game");
+        const newDiv = document.createElement("div");
+
+        newDiv.innerHTML = ("When money is tight, you have to make sacrifices.");
 
         bodyEl.appendChild(newDiv);
     }
