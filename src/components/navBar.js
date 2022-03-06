@@ -12,6 +12,7 @@ function NavBar() {
                 <li><Link to="/nearyou" className='linkItem'>Food near you</Link></li>
                 <li><Link to="/suppliers" className='linkItem'>Food suppliers</Link></li>
                 <li><Link to="/faq" className='linkItem'>FAQ</Link></li>
+                <li><Link to="/game" className='linkItem'>Game</Link></li>
             </ul>
         </nav>
     </div>

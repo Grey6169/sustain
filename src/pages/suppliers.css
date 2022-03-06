@@ -6,7 +6,7 @@
 	width: 60%;
     margin-left: calc(20% - 60px);
 	font-size: 16px;
-	background: #011D64;
+	background: #324960;
 	padding: 30px 30px 15px 30px;
     margin-bottom: 2%;
 }
@@ -82,7 +82,7 @@
 }
 .form-style-4 input[type=submit]:hover,
 .form-style-4 input[type=button]:hover{
-    background: #394D61;
+    background: #43D1AF;
 }
 
 .form-style-4 textarea {
