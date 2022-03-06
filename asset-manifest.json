@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sustain/static/css/main.de41233e.css",
+    "main.js": "/sustain/static/js/main.c9a781af.js",
+    "static/js/787.ba7bc358.chunk.js": "/sustain/static/js/787.ba7bc358.chunk.js",
+    "static/media/poppins-all-400-normal.woff": "/sustain/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/dancing-script-all-400-normal.woff": "/sustain/static/media/dancing-script-all-400-normal.7aedb59dab3b441b8447.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/sustain/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/dancing-script-latin-400-normal.woff2": "/sustain/static/media/dancing-script-latin-400-normal.a88bfabf57c5909cdefe.woff2",
+    "static/media/sustain-logo.png": "/sustain/static/media/sustain-logo.3682152b0d6c746e75e4.png",
+    "static/media/dancing-script-latin-ext-400-normal.woff2": "/sustain/static/media/dancing-script-latin-ext-400-normal.fa3408e5c0098fde83cc.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/sustain/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/sustain/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/dancing-script-vietnamese-400-normal.woff2": "/sustain/static/media/dancing-script-vietnamese-400-normal.b88a103c555f42370db3.woff2",
+    "index.html": "/sustain/index.html",
+    "main.de41233e.css.map": "/sustain/static/css/main.de41233e.css.map",
+    "main.c9a781af.js.map": "/sustain/static/js/main.c9a781af.js.map",
+    "787.ba7bc358.chunk.js.map": "/sustain/static/js/787.ba7bc358.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de41233e.css",
+    "static/js/main.c9a781af.js"
+  ]
+}
