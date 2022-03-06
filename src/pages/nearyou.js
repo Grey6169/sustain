@@ -1,6 +1,7 @@
 import './nearyou.css';
 import { foodAvailable } from '../foodAvailable';
 import { useState } from 'react';
+import ReactGA from 'react-ga';
  
 function NearYou() {
     const [food, setFood] = useState(null);
@@ -14,6 +15,11 @@ function NearYou() {
         setFood(newFoodList);
         event.target[0].value = "";
         console.log(newFoodList);
+
+        ReactGA.event({
+            category: 'User',
+            action: `Searched for ${event.target[0].value}`
+        });
     };
 
   return (

@@ -11,7 +11,7 @@ function NavBar() {
                 <li><Link to="/home" className='linkItem'>Home</Link></li>
                 <li><Link to="/nearyou" className='linkItem'>Food near you</Link></li>
                 <li><Link to="/suppliers" className='linkItem'>Food suppliers</Link></li>
-                <li><Link to="/home" className='linkItem'>FAQ</Link></li>
+                <li><Link to="/faq" className='linkItem'>FAQ</Link></li>
             </ul>
         </nav>
     </div>
