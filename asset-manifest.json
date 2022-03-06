@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sustain/static/css/main.de41233e.css",
-    "main.js": "/sustain/static/js/main.c9a781af.js",
+    "main.js": "/sustain/static/js/main.162500db.js",
     "static/js/787.ba7bc358.chunk.js": "/sustain/static/js/787.ba7bc358.chunk.js",
     "static/media/poppins-all-400-normal.woff": "/sustain/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
     "static/media/dancing-script-all-400-normal.woff": "/sustain/static/media/dancing-script-all-400-normal.7aedb59dab3b441b8447.woff",
@@ -14,11 +14,11 @@
     "static/media/dancing-script-vietnamese-400-normal.woff2": "/sustain/static/media/dancing-script-vietnamese-400-normal.b88a103c555f42370db3.woff2",
     "index.html": "/sustain/index.html",
     "main.de41233e.css.map": "/sustain/static/css/main.de41233e.css.map",
-    "main.c9a781af.js.map": "/sustain/static/js/main.c9a781af.js.map",
+    "main.162500db.js.map": "/sustain/static/js/main.162500db.js.map",
     "787.ba7bc358.chunk.js.map": "/sustain/static/js/787.ba7bc358.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de41233e.css",
-    "static/js/main.c9a781af.js"
+    "static/js/main.162500db.js"
   ]
 }
